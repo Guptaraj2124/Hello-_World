@@ -1,5 +1,2 @@
-# Hello-_World
+hello world
 just another repository
-Hi
-fy.bsc computer science
-bye
