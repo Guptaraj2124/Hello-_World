@@ -1,6 +1,5 @@
 # Hello-_World
 just another repository
 Hi
-this is fy.bsc computer science 
+fy.bsc computer science
 bye
-practical on github 
